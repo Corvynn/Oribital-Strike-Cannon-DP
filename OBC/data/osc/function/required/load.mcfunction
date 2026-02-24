@@ -14,8 +14,8 @@ tellraw @a {text:""}
 tellraw @a {text:""}
 tellraw @a {text:"Oribital Strike Cannon DataPack",color:light_purple,bold:true}
 tellraw @a {text:""}
-tellraw @a [{"text":"ᵃUse ","color":"#aa24e7"},{"text":"/function osc:give/...","color":"#bc53ec","underlined":true},{"text":" to gain rods","color":"#aa24e7"}]
-tellraw @a [{"text":"ᵇUse the \"Give\" button beside it in the",color:"#aa24e7",bold:false},{text:" Give Command List",color:"#aa24e7",underlined:true,bold:false,hover_event:{action:show_text,value:"Click for list of rods and info about them!"},click_event:{action:suggest_command,command:"/function osc:required/give_list"}}]
+tellraw @a [{"text":"1. Use ","color":"#aa24e7"},{"text":"/function osc:give/...","color":"#bc53ec","underlined":true},{"text":" to gain rods","color":"#aa24e7"}]
+tellraw @a [{"text":"2. Use the \"Give\" button beside it in the",color:"#aa24e7",bold:false},{text:" Give Command List",color:"#aa24e7",underlined:true,bold:false,hover_event:{action:show_text,value:"Click for list of rods and info about them!"},click_event:{action:suggest_command,command:"/function osc:required/give_list"}}]
 tellraw @a {text:""}
 tellraw @a {text:"Give Command List",underlined:true,color:"#db33cd",bold:false,hover_event:{action:show_text,value:"Click for list of rods and info about them!"},click_event:{action:suggest_command,command:"/function osc:required/give_list"}}
 tellraw @a {text:""}
