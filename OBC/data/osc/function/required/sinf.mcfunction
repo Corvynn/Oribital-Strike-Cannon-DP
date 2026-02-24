@@ -4,4 +4,3 @@ tellraw @p [{text:"Penetrates from height limit to bedrock nomatter ground y-lev
 tellraw @p [{text:"3 second fuse time",color:"#aa24e7",bold:false}]
 tellraw @p [{text:"May cause tps drop as 830 tnt fire in 2ticks",color:"#aa24e7",bold:false}]
 tellraw @p [{text:"How the REAL Orbital Strike Cannon's STAB-shot works!",color:"#aa24e7",bold:false}]
-tellraw @p [{"text":"REQUIRES ","color":"#aa24e7"},{"text":"Carpet Mod","color":"#bc53ec","underlined":true,hover_event:{action:show_text,value:"Download it if you want to use the rergualr stab."},click_event:{action:open_url,url:"https://github.com/gnembon/fabric-carpet/releases/"}},{"text":" for this to work","color":"#aa24e7"}]
