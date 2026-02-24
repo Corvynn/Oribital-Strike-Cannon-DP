@@ -1,1 +1,0 @@
-summon tnt ~ ~ ~ {Motion:[0.0,0.0,0]}

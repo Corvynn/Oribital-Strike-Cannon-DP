@@ -1,1 +1,0 @@
-give @p fishing_rod[custom_name={color:dark_red,bold:true,underlined:true,text:"STAB"},custom_data={is_test_rod:1b}, damage=63 , lore=[{text:"Optimized stab-shots",color:aqua}]] 5

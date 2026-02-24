@@ -1,7 +1,0 @@
-tellraw @p [{text:"-----\"stab_\"-Rod-Info-------",color:"#2023ee",bold:true}]
-tellraw @p [{text:"Gives 5 optimized stab rods",color:"#aa24e7",bold:false}]
-tellraw @p [{text:"not gauranteed to penetrate from height-limit to bedrock",color:"#aa24e7",bold:false}]
-tellraw @p [{text:"instant explosion",color:"#aa24e7",bold:false}]
-tellraw @p [{text:"Doesn't require carpet mod",color:"#aa24e7",bold:false}]
-tellraw @p [{text:"NOT the REAL Orbital Strike Cannon's STAB-shot!",color:"#aa24e7",bold:false}]
-tellraw @p [{text:"only summons 176 tnt per rod, so it won't cause as much lag as the regular stab",color:"#aa24e7",bold:false}]

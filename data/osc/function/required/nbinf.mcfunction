@@ -1,5 +1,0 @@
-tellraw @p [{text:"----\"nuke_big\"-Rod-Info-------",color:"#2023ee",bold:true}]
-tellraw @p [{text:"Gives a large sized nuke rod",color:"#aa24e7",bold:false}]
-tellraw @p [{text:"Diameter:~255 blocks(may vary), that's almost 16 chunks!",color:"#aa24e7",bold:false}]
-tellraw @p [{text:"WARNING",color:red,bold:true},{text:":",color:gray},{text:"May cause severe lag",color:red,bold:true}]
-tellraw @p [{text:"Features 14 rings (not including the center) and 1737 pieces of tnt",color:"#aa24e7",bold:false}]
