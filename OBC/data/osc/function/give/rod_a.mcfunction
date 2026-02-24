@@ -1,0 +1,2 @@
+give @p fishing_rod[custom_name={color:dark_red,bold:true,underlined:true,text:"STAB"},custom_data={is_stab_rod:1b}, damage=63 , lore=[{text:"Have the ability to send ",color:aqua,extra:[{text:"ORBITAL STRIKES",color:dark_red,bold:true},{text:" to any location you're looking at",color:aqua}]}]] 5
+give @p fishing_rod[custom_name={color:dark_red,bold:true,underlined:true,text:"NUKE"},custom_data={is_big_rod:1b}, damage=63 , lore=[[{text:"WARNING:",color:dark_red,bold:true},{text:" May crash/severely lag low-end devices",color:aqua}]]] 5
