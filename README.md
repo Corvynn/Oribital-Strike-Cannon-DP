@@ -16,4 +16,4 @@
 - 6.Enter the world in Minecraft, or if already in type "/reload" then you should be good to go!
 
 
--Feel free to modify this however you wish!
+-Feel free to modify this however you wish! (my code is so bad so gl with that)
