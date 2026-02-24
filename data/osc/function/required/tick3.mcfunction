@@ -1,0 +1,1 @@
+execute as @e[type=egg] if predicate {condition:"entity_properties",entity:"this",predicate:{movement:{horizontal_speed:0}}} at @s on origin if entity @s[name="Not in use"] at @s positioned ~ ~1.5 ~ run function osc:egg

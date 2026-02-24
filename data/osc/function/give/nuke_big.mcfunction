@@ -1,0 +1,1 @@
+give @p fishing_rod[custom_name={color:dark_red,bold:true,underlined:true,text:"NUKE"},custom_data={is_big_rod:1b}, damage=63 , lore=[[{text:"WARNING:",color:dark_red,bold:true},{text:" May crash/severely lag low-end devices",color:aqua}]]] 5

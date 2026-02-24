@@ -1,0 +1,1 @@
+execute as @e[type=fishing_bobber] if entity @p[nbt={SelectedItem:{id:"minecraft:fishing_rod",components:{"minecraft:custom_data":{is_stab_rod:1b}}}}] run say STAB Rod Detected!

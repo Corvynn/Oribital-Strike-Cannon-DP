@@ -1,0 +1,1 @@
+script run loop(40, run('summon tnt ~ ~100 ~ {fuse:50}'))
