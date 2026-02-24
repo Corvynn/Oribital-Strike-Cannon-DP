@@ -4,3 +4,4 @@ tellraw @p [{text:"Penetrates from height limit to bedrock nomatter ground y-lev
 tellraw @p [{text:"3 second fuse time",color:"#aa24e7",bold:false}]
 tellraw @p [{text:"May cause tps drop as 830 tnt fire in 2ticks",color:"#aa24e7",bold:false}]
 tellraw @p [{text:"How the REAL Orbital Strike Cannon's STAB-shot works!",color:"#aa24e7",bold:false}]
+tellraw @p [{text:"Warning:",color:"red",bold:false},{text:"May cause severe lag as it doesn't use carpet's /script command, but rather Minecraft built-in commands",color:"gray",bold:false,italic:true}]
