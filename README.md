@@ -1,5 +1,10 @@
 # Oribital-Strike-Cannon-DP
 
+**NEEDED**
+  You NEED "carpet mod" for the regular stab-shot to work (I'll fix this later (im too lazy))
+  Download it from https://github.com/gnembon/fabric-carpet/releases
+
+  
  **How to download?**
 - 1.Download code as a .zip file 
 - 2.Extract the .zip file
