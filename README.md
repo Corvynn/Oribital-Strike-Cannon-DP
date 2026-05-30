@@ -16,6 +16,6 @@
 - 6.Enter the world in Minecraft, or if already in type "/reload" then you should be good to go!
 
 
--Feel free to modify this however you wish! (my code is so bad so gl with that)
+- Feel free to modify this however you wish! (my code is so bad so gl with that)
 
 - Through my testing it works with any version 1.21.4 and above (including 26.x)
