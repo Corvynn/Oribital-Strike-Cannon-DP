@@ -1,2 +1,2 @@
-function osc:no
+function osc:nukeb-rayc
 function osc:split/particle
